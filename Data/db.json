@@ -1,0 +1,27 @@
+{
+    "blogs":[
+
+        {
+            "title":"My first Blog",
+            "body":"Why do we use it?\nIt is a long established fact that a reader will be distracted There is no more important factor to writing a blog post than understanding your audience and what they want to read. A blog post has to provide value to readers. It must educate, inform, entertain, or provide a fresh viewpoint in order to gain traction. Remember that the visitors to your blog are actual people, not crawlers for Google search rankings. So your blog must make an impact, and the best way to do that is to touch on a pain point or issue your customers face.After you’ve narrowed down your topic, it’s time to focus on using the keywords that people who are searching might be using. Use a keyword research tool, like SEMrush, Moz, or Google Keyword Planner to identify the keywords you should focus on in your first blog post.",
+            "author":"mario",
+            "id":"1"
+
+
+
+        },
+        {
+            "title":"Opening party",
+            "body":"Why do we use it?\nIt is a long established fact that a reader will be distracted Large blocks of text can be overwhelming and tiring for readers, even when they really want to know what you have to say. Break up the text into digestible portions by adding images, videos, or even interactive content, like infographics, slideshows, or quizzes. This adds interest and excitement, creating higher engagement and encouraging readers to share the post among their network.Your blog posts should also include a byline of the author, with a headshot and short bio. This creates legitimacy and trustworthiness, and will help you build a relationship with readers in the long term. If you feel comfortable, include a link to your LinkedIn or Twitter profile. This way, readers can find out more about you and connect with you online, increasing your business network and maybe even your lead pool.",
+            "author":"yoshi",
+            "id":"2"
+        },{
+            "title":"Opening party",
+            "body":"Why do we use it?\nIt is a long established fact that a reader will be distracted Large blocks of text can be overwhelming and tiring for readers, even when they really want to know what you have to say. Break up the text into digestible portions by adding images, videos, or even interactive content, like infographics, slideshows, or quizzes. This adds interest and excitement, creating higher engagement and encouraging readers to share the post among their network.Your blog posts should also include a byline of the author, with a headshot and short bio. This creates legitimacy and trustworthiness, and will help you build a relationship with readers in the long term. If you feel comfortable, include a link to your LinkedIn or Twitter profile. This way, readers can find out more about you and connect with you online, increasing your business network and maybe even your lead pool.",
+            "author":"yoshi",
+            "id":"3"
+        }
+
+    ]
+
+}
